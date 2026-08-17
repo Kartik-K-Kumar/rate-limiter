@@ -103,18 +103,6 @@ rate-limiter/
 └── .gitignore
 ```
 
-## What I Learned
-
-Building this project helped me develop my understanding of:
-
-* Python object-oriented programming
-* Dictionaries and lists for managing application state
-* Sliding-window rate-limiting algorithms
-* Timestamp-based data expiry
-* Per-client state management
-* Automated testing with pytest
-* Git and GitHub version-control workflows
-
 ## Current Limitations
 
 This is an initial implementation intended for learning and experimentation.
