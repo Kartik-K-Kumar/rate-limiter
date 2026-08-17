@@ -75,7 +75,7 @@ print(requestLimit.add_request("charlie"))
 
 
 
-print(requestLimit.request)
+print(requestLimit.requests)
 print(f"Successful requests: {requestLimit.successful}")
 print(f"Unsuccessful requests: {requestLimit.unsuccessful}")
 
